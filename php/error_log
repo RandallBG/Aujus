@@ -1,0 +1,19 @@
+[21-Jan-2022 13:16:16 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:16:16 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:16:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:17:28 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:17:28 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:17:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:26:05 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:26:05 America/New_York] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:26:05 America/New_York] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 9
+[21-Jan-2022 13:29:25 America/New_York] PHP Notice:  Undefined index: name in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 30
+[21-Jan-2022 13:29:25 America/New_York] PHP Notice:  Undefined index: message in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 32
+[21-Jan-2022 13:29:25 America/New_York] PHP Notice:  Undefined index: name in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 34
+[21-Jan-2022 13:29:25 America/New_York] PHP Notice:  Undefined index: email in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 34
+[21-Jan-2022 13:29:25 America/New_York] PHP Notice:  Undefined index: phone in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 34
+[21-Jan-2022 13:46:06 America/New_York] PHP Notice:  Undefined index: name in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 30
+[21-Jan-2022 13:46:06 America/New_York] PHP Notice:  Undefined index: message in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 32
+[21-Jan-2022 13:46:06 America/New_York] PHP Notice:  Undefined index: name in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 34
+[21-Jan-2022 13:46:06 America/New_York] PHP Notice:  Undefined index: email in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 34
+[21-Jan-2022 13:46:06 America/New_York] PHP Notice:  Undefined index: phone in /home/randsqnd/AuJus.randallgosnell.com/php/sendMail.php on line 34
