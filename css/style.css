@@ -684,6 +684,12 @@ nav ul li a:hover {
   .formGroup {
     width: 100%;
   }
+
+  .disclaimer{
+    font-size: .75rem;
+    margin-top: 2rem;
+  }
+
 }
 
 @media screen and (max-width: 700px) {
@@ -781,5 +787,10 @@ nav ul li a:hover {
 
   #orderBtn {
     display: block;
+  }
+
+  .disclaimer{
+    font-size: .75rem;
+    margin-top: 2rem;
   }
 }
