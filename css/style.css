@@ -519,6 +519,11 @@ nav ul li a:hover {
   margin: 1rem 0 2rem 0;
 }
 
+.disclaimer{
+  font-size: .75rem;
+  margin-top: 2rem;
+}
+
 /* ---------------------------Catering Menu ------------------------------- */
 
 .catering-flex-container {
@@ -536,6 +541,10 @@ nav ul li a:hover {
   display: flex;
   justify-content: flex-start;
   gap: 5rem;
+}
+
+.c-menu-h2{
+  text-align: center;
 }
 /* ------------------------- Contact Us------------------------------------ */
 
